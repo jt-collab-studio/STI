@@ -1,3 +1,4 @@
+# Reward System
 ## [JToken](https://jtoken.onrender.com/)
 - JToken is a token-based reward system that can be redeemed for extra credits.
 
