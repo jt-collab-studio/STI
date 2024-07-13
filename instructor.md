@@ -1,7 +1,4 @@
----
-layout: default
-title: "Instructor"  # Optional
----
+# Instructor
 ## Personal Information
 - Jay S. Tinosa
 - 27 years old
