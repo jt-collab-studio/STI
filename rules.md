@@ -1,4 +1,3 @@
-# Class Rules
 ## General Conduct
 1. **Respect**: Show respect for your classmates, instructor, and the learning environment. This includes listening when others are speaking and using respectful language.
 2. **Punctuality**: Arrive on time for each class. If you are late, enter quietly and find a seat without disrupting the class.
