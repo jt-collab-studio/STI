@@ -1,6 +1,5 @@
 # Reward System
-## [JToken](https://jtoken.onrender.com/)
-- JToken is a token-based reward system that can be redeemed for extra credits.
+- **[JToken](https://jtoken.onrender.com/)** is a token-based reward system that can be redeemed for extra credits.
 
 ## How to earn JTokens?
 - Laboratory Activities = 1 JToken
