@@ -4,7 +4,7 @@
 ## How to earn JTokens?
 - Attendance = 1 JToken
 - Recitation = 1 JToken
-- Lab Activity = 1 JToken
+- Lab Activity = 2 JTokens
 - Programming Competition = 5 JTokens
   
 ## JToken Value
