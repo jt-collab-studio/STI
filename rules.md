@@ -15,7 +15,7 @@
 
 ## Communication
 10. **Office Hours**: Take advantage of the instructor's office hours for additional help or to discuss concerns. Appointments can also be scheduled if needed.
-11. **Messaging Etiquette**: Use Facebook Messenger for class-related communication. Be professional and concise in your messages. Include your full name and course details in your messages.
+11. **Messaging Etiquette**: Use Microsoft Teams for class-related communication. Be professional and concise in your messages. Include your full name and course details in your messages.
 
 ## Attendance
 12. **Regular Attendance**: Attend all classes unless you have a valid reason for absence. Inform the instructor in advance if you know you will be absent.
