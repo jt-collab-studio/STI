@@ -1,5 +1,5 @@
 ## Subjects
-- [adv-mobile-prog/0.md](Advanced Mobile Programming)
+- [Advanced Mobile Programming](adv-mobile-prog/0.md)
 - Advanced Web Design
 - Fundamentals of Mobile Programming
 - Game Programming
