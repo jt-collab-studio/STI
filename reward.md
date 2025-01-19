@@ -1,5 +1,5 @@
 # JToken
-- JToken** is a token-based reward system that can be redeemed for extra credits.
+- **JToken** is a token-based reward system that can be redeemed for extra credits.
 
 ## How to earn JTokens?
 - Attendance = 1 JToken
