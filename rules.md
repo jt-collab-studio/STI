@@ -6,7 +6,7 @@
 ## Classroom Behavior
 4. **Participation**: Actively participate in class discussions and activities. Your contributions are valuable to the learning experience.
 5. **Electronics**: Use electronic devices only for class-related activities. Phones should be on silent mode or turned off unless otherwise directed by the instructor.
-6. **Food and Drink**: Consumption of food and drinks is allowed as long as it does not disrupt the class.
+6. **Food and Drink**: Consumption of food and drinks is not allowed.
 
 ## Assignments and Assessments
 7. **Deadlines**: Submit all assignments on time. Late submissions are not allowed.
