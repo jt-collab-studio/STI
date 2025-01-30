@@ -6,6 +6,9 @@
 ## Game Development
 - [Lecture 1](gamedev/1.md)
 
+## Mobile App Programming 1
+- [Lecture](shs-mob-app1/1.md)
+
 ## Mobile App Programming 2
 - [Lecture 1](shs-mob-app2/1.md)
 
