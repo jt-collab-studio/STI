@@ -1,26 +1,28 @@
+# Class Guidelines
+
 ## General Conduct
-1. **Respect**: Show respect for your classmates, instructor, and the learning environment. This includes listening when others are speaking and using respectful language.
-2. **Punctuality**: Arrive on time for each class. If you are late, enter quietly and find a seat without disrupting the class.
-3. **Preparedness**: Come to class prepared with all necessary materials, including notebooks, papers and pens.
+1. **Respect Everyone** – Listen when someone’s talking and speak respectfully.  
+2. **Be On Time** – Come on time. If you’re late, enter quietly.  
+3. **Be Ready** – Bring what you need: notebook, pen, etc.  
 
-## Classroom Behavior
-4. **Participation**: Actively participate in class discussions and activities. Your contributions are valuable to the learning experience.
-5. **Electronics**: Use electronic devices only for class-related activities. Phones should be on silent mode or turned off unless otherwise directed by the instructor.
-6. **Food and Drink**: Consumption of food and drinks is not allowed.
+## In Class
+4. **Join In** – Speak up and take part in discussions and activities.  
+5. **Gadget Use** – Use devices only for class. Keep phones silent.  
+6. **No Eating** – Food and drinks aren’t allowed in class.  
 
-## Assignments and Assessments
-7. **Deadlines**: Submit all assignments on time. Late submissions are not allowed.
-8. **Integrity**: Adhere to academic integrity policies. Cheating, plagiarism, and other forms of academic dishonesty will not be tolerated.
-9. **Quality**: Ensure that your work is well-organized, clearly written, and meets the assignment guidelines.
+## Assignments & Tests
+7. **Meet Deadlines** – Submit on time. No late work.  
+8. **Be Honest** – No cheating or plagiarism.  
+9. **Do It Right** – Make sure your work is neat, clear, and follows instructions.  
 
 ## Communication
-10. **Office Hours**: Take advantage of the instructor's office hours for additional help or to discuss concerns. Appointments can also be scheduled if needed.
-11. **Messaging Etiquette**: Use Microsoft Teams for class-related communication. Be professional and concise in your messages. Include your full name and course details in your messages.
+10. **Office Hours** – Drop by during office hours or book a schedule if needed.  
+11. **Message Properly** – Use MS Teams, be clear and polite. Include your name and course.  
 
 ## Attendance
-12. **Regular Attendance**: Attend all classes unless you have a valid reason for absence. Inform the instructor in advance if you know you will be absent.
-13. **Make-Up Work**: It is your responsibility to catch up on missed work. Check with classmates or the instructor for missed content and assignments.
+12. **Show Up** – Come to all classes unless you have a valid reason. Let me know ahead.  
+13. **Catch Up** – If you miss class, it’s your job to get the notes and assignments.  
 
 ## Group Work
-14. **Collaboration**: Work collaboratively with your group members. Contribute equally and respect the ideas and opinions of others.
-15. **Responsibility**: Fulfill your responsibilities in group projects. Communicate effectively with your group to ensure timely completion of tasks.
+14. **Work Together** – Share the load, listen, and respect each other.  
+15. **Do Your Part** – Communicate and meet your group deadlines.  
