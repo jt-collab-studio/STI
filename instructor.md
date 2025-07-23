@@ -7,4 +7,3 @@
 
 ## Areas of Expertise
 - Software Development
-- Data Analytics
