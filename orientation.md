@@ -1,6 +1,6 @@
 # Orientation
 
 - ### [Instructor](instructor.md)
-- ### [Subject](subject.md)
+- ### [Subject](elms.sti.edu)
 - ### [Class Rules](rules.md)
-- ### [Reward System](reward.md)
+- ### [Reward System](https://jtoken-web.firebaseapp.com/)
